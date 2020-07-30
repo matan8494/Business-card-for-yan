@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body style="background-color:grey;">
+    <table align="center">
+        <tr>
+            <th>  <img src="content/yan.jpeg" width="400" height="550" /> </th>
+            <th>  <img src="content/yan1.png" width="800" height="550" /> </th>
+
+        </tr>
+  
+    </table>
+    <input  class="btn" title="Tooltip" onclick="window.open('Url of the file goes here (step #5)')" style="Style (CSS3)" type="button" value="להוספה לאנשי קשר" />
+</body>
+</html>
